@@ -35,7 +35,7 @@
 
 
 문제 해결을 위해 선택한 모델은 **OpenChat 3.5**입니다.  
-(OpenChat 3.5는 HuggingFace에서 제공하는 `openchat/openchat-3.5-1210` 버전입니다.)
+(OpenChat 3.5는 HuggingFace에서 제공하는 `[OpenChat 3.5 (openchat/openchat-3.5-1210)](https://huggingface.co/openchat/openchat-3.5-1210)` 버전입니다.)
 
 이 모델은 **GPT 아키텍처 기반의 대형 언어 모델(LLM)**로,  
 특히 **영어**와 **중국어**에 대해 매우 뛰어난 자연어 이해 및 생성 능력을 보이는 것이 특징입니다.
