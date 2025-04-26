@@ -49,6 +49,11 @@
 **한국어 특화 모델 대신 OpenChat 3.5를 채택**하였습니다.  
 (추후 서비스 확장 시 중국어·영어 기반 지원을 우선 확보하기 위함입니다.)
 
+개발진
+>- Shanghai AI Laboratory (상하이 AI 랩)
+>- Tencent AI Lab (텐센트 AI 연구소)
+>- Tsinghua University AI Lab (칭화대학 AI 연구소)
+>- 일부 Alibaba DAMO Academy 출신 추정
 ---
 
 ## 🕒🧹 성능 최적화 방법
